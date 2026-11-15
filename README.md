@@ -1,24 +1,47 @@
-# Awesome-Marketing-Automation-Lead-Nurturing
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Marketing Automation &amp; Lead Nurturing Banner" width="100%" />
+</p>
 
-# Awesome Marketing Automation & Lead Nurturing
+# 🚀 Awesome Marketing Automation & Lead Nurturing 🎯
 
-> A curated list of top Marketing Automation and Lead Nurturing platforms — both SaaS/Hosted commercial solutions and open-source alternatives for capturing leads, scoring engagement, and automating personalized follow-up sequences.
-> 🌟 Star this repo if you find it useful! 🌟
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Marketing-Automation-Personalization"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Marketing-Automation-Personalization?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Marketing-Automation-Personalization/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Marketing-Automation-Personalization?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Marketing-Automation-Personalization/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0 1.0" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 🌟 **A curated directory of top Marketing Automation, Customer Journey Orchestration, and Lead Nurturing platforms** — spanning enterprise SaaS solutions and powerful self-hosted, open-source alternatives for capturing leads, scoring engagement, and automating multi-channel campaigns.
+> 
+> ✨ *Star this repo if you find it helpful for your marketing engineering stack!* ✨
 
 ---
 
-## 📋 Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
-- [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-- [Open-Source Software](#-open-source-software)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🟦 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [🟩 Open-Source Software](#-open-source-software)
+  - [Twenty](#twenty)
+  - [Listmonk](#listmonk)
   - [Mautic](#mautic)
+  - [SuiteCRM](#suitecrm)
+  - [erxes](#erxes)
+  - [Dittofeed](#dittofeed)
+  - [Laudspeaker](#laudspeaker)
+  - [Parcelvoy](#parcelvoy)
+  - [OpenLeads](#openleads)
+  - [Sphericon](#sphericon)
   - [Helio](#helio)
   - [NocoCRM](#nococrm)
-  - [Sphericon](#sphericon)
-  - [OpenLeads](#openleads)
   - [entirius-django-leads](#entirius-django-leads)
-  - [erxes](#erxes)
+- [📈 Comparison at a Glance](#-comparison-at-a-glance)
+- [🤝 Contributing](#-contributing)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📊 Star History](#-star-history)
+- [📄 License](#-license)
 
 ---
 
@@ -30,9 +53,9 @@ The global marketing automation software market was estimated at approximately *
 
 ## 🟦 SaaS / Hosted Platforms
 
-Commercial, cloud-hosted Marketing Automation and Lead Nurturing platforms. These are not open-source but are included as reference points for feature comparison. Sorted descending by company size (valuation / revenue).
+Commercial, cloud-hosted Marketing Automation and Lead Nurturing platforms. These are included as industry reference points for feature comparison, sorted descending by parent company size (valuation / annual revenue).
 
-| Platform | Parent / Company Size (Revenue / Valuation) | Starting Pricing | Free Tier / Trial Limits | Key Capabilities |
+| 🏢 Platform | 💼 Parent / Company Size | 💳 Starting Pricing | 🎁 Free Tier / Trial Limits | ⚡ Key Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **Pardot (Salesforce Account Engagement)** | **Salesforce:** ~$319.95B Market Cap / ~$34.9B Revenue | **$1,250/month** (Growth+ plan, billed annually) | **No free tier; No public free trial** (access via sales-led demo and custom PoC sandbox only) | Enterprise B2B marketing automation, lead scoring/grading, and native Salesforce CRM integration for up to 10,000 prospects. |
 | **Marketo Engage** | **Adobe:** ~$195.66B Market Cap / ~$21.4B Revenue | **~$895/month** (Growth tier list entry, billed annually) | **No free tier; No self-serve trial** (interactive guided tour available; custom sales demo/PoC sandbox only) | Sophisticated enterprise lead management, multi-touch attribution, ABM, and complex multi-channel campaign orchestration. |
@@ -45,125 +68,242 @@ Commercial, cloud-hosted Marketing Automation and Lead Nurturing platforms. Thes
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven Marketing Automation and Lead Nurturing tools. The open-source ecosystem spans **mature marketing automation platforms**, **AI-native growth platforms**, **agentic B2B CRMs**, **self-hosted email platforms with automation**, and **local-first lead generation tools**.
+Self-hosted, community-driven Marketing Automation and Lead Nurturing tools. The open-source ecosystem spans **mature marketing automation platforms**, **AI-native growth platforms**, **event-triggered customer engagement engines**, **agentic B2B CRMs**, and **local-first lead generation tools**.
 
-### Mautic
-**Stack:** PHP / MySQL | **License:** GPL-3.0
-Mautic is the world's largest open-source marketing automation platform, explicitly positioned for data sovereignty and privacy [citation:2]. Key capabilities include:
-- **Lead management and nurturing**: Lead scoring points, triggers, and groups; stages tracking funnel position; multichannel data collection to build customer profiles [citation:2]
-- **Visual campaign builder**: Drag-and-drop workflows with actions, decisions, conditions, timed delays, and Jump-to-Step routing [citation:9]
-- **Dynamic segments**: Audience filters that auto-update from behavior, custom fields, tags, and point scores [citation:9]
-- **Multichannel messaging**: Email, SMS, app or browser notifications out of the box, with more via plugins [citation:2]
-- **Progressive profiling forms**: Dynamically show/hide fields based on known contact information, reducing abandonment [citation:2]
-- **GDPR compliance**: Consent management, data erasure, audit logs, and unlimited users with role access control [citation:2]
-
-**Critical deployment detail:** A dedicated cron worker is required for campaigns and scheduled emails to actually fire—the most common failure in self-hosted Mautic deployments [citation:11]. Deployment options include Railway templates that pre-configure the web app, cron service, and MySQL [citation:11]. Mautic is a direct alternative to HubSpot, ActiveCampaign, and Marketo, with no per-contact pricing [citation:9].
-**Best for:** Organizations wanting a proven, privacy-focused marketing automation platform with full data ownership and no per-user fees, accepting the PHP/MySQL deployment and cron configuration.
-
-### Helio
-**Stack:** TypeScript / Temporal / PostgreSQL / ClickHouse | **License:** AGPL-3.0
-Helio is an open-source, AI-native growth platform combining a CDP, visual journey orchestration, and multi-channel delivery [citation:5]. Key capabilities include:
-- **Multi-channel**: Email, SMS (Twilio), WhatsApp (Cloud API), web push, and in-app messages [citation:5]
-- **Visual journey builder**: React Flow canvas compiled to a validated DAG, with durable execution via Temporal [citation:5]
-- **AI copilot**: Describe a segment, journey, or on-brand email in a sentence and get a working draft; predictive lead scoring and churn [citation:5]
-- **Bring your own AI**: OpenAI, Anthropic, Groq, NVIDIA NIM, or local Ollama [citation:5]
-- **MCP server**: Exposes capabilities as tools for external AI agents [citation:5]
-- **CRM-lite**: Pipelines with configurable stages, task list, and meeting scheduler [citation:5]
-- **Migration importers**: Detect HubSpot/Mailchimp/Klaviyo exports [citation:5]
-- **Free forever**: No plans, no contact caps, no metering [citation:5]
-
-**Best for:** Teams wanting a genuinely free, AI-native marketing automation platform with durable execution and multi-channel delivery, accepting a newer project than Mautic.
-
-### NocoCRM
-**Stack:** Node.js / NocoBase / SQLite/PostgreSQL/MySQL | **License:** Apache-2.0
-NocoCRM is an open-source B2B sales CRM built on NocoBase, with **six built-in sales agents** and email/WhatsApp integration [citation:12]. Key capabilities for lead nurturing include:
-- **Automatic follow-up**: New leads, new opportunities, customer replies, and daily morning checks trigger agents to read context and put the next step in your inbox—records change only when you accept [citation:12]
-- **Unified timeline**: Each person connects their own email (Gmail, Microsoft 365, or any IMAP/SMTP) and the company connects WhatsApp Business [citation:12]
-- **Smart capture**: Paste an email, chat, or business card, and AI turns it into leads or an opportunity for your confirmation [citation:12]
-- **Company signals**: Every morning, company research searches the web for news about companies with open deals (funding, hiring, leadership changes, risks) [citation:12]
-- **Approval assistance**: Approval Agent checks discounts and terms against your rules and past decisions [citation:12]
-- **Full sales cycle**: Leads, companies, contacts, opportunities, tasks, approvals, and reports [citation:12]
-
-It is **web-based** (NocoBase Admin UI) rather than a native mobile app, but its responsive interface and WhatsApp integration make it accessible on mobile browsers.
-**Best for:** B2B sales teams wanting an AI-agent-driven CRM with WhatsApp integration and automated follow-ups, accepting a web-based interface rather than a native app.
-
-### Sphericon
-**Stack:** Go / PostgreSQL / React | **License:** AGPL-3.0 (open-core)
-Sphericon is a self-hosted marketing automation platform with a focus on deliverability and simplicity [citation:10]. Key features include:
-- **Transactional email**: Send single messages through the API [citation:10]
-- **Deliverability built in**: Unsubscribes, bounces, and spam complaints honored automatically; DKIM signing; one-click unsubscribe [citation:10]
-- **API and webhooks**: Workspace-scoped API with scoped tokens [citation:10]
-- **Agent-ready**: MCP server lets an AI agent draft campaigns; sending stays opt-in per token [citation:10]
-- **Privacy tools**: GDPR export and erasure, audit log [citation:10]
-- **Multi-user workspaces**: Owners, admins, and members with two-factor sign-in [citation:10]
-
-Deploys as a single Go binary (or Docker image) with PostgreSQL—no Redis, no object storage, no separate worker [citation:10].
-**Best for:** Developers wanting a lightweight, Go-based marketing platform with strong deliverability controls and MCP integration, accepting a newer project than Mautic.
-
-### OpenLeads
-**Stack:** Python / SQLite | **License:** Open Source (PyPI)
-OpenLeads is a local-first lead generation and outreach tool that runs entirely on your machine with no API keys and nothing to pay [citation:4]. Key capabilities for lead nurturing include:
-- **Lead discovery**: One sentence fans out across sources—OpenStreetMap for local businesses, Y Combinator and Hacker News for startup founders, GitHub for developers, Wikidata and SEC EDGAR for companies [citation:4]
-- **Evidence-based emails**: Each address is labeled with where it came from (`found`, `pattern`, or `guessed`) and a tier (`safe`, `risky`, `bad`) based on seven checks [citation:4]
-- **Sequences**: Email, call, LinkedIn, and task steps with A/B variants and same-thread follow-ups; people leave when they reply, bounce, or unsubscribe [citation:4]
-- **Deals pipeline**: Drag-and-drop pipeline with weighted forecast [citation:4]
-- **Local workspace**: Same data in dashboard, terminal, and AI assistant [citation:4]
-
-**Best for:** Solopreneurs and small teams wanting local-first lead generation and outreach automation without cloud dependencies or subscriptions.
-
-### entirius-django-leads
-**Stack:** Python / Django / PostgreSQL | **License:** MPL-2.0
-entirius-django-leads is a Django module for leads and the B2B sales pipeline of the Entirius open-source modular ecommerce platform [citation:3]. Key capabilities include:
-- **Pipeline stages**: Moves companies through configurable stages with a full activity timeline [citation:3]
-- **Stage rules**: AI-assisted site analysis, recipient selection, and outreach drafts behind a consent gate [citation:3]
-- **GDPR compliance**: Anonymises idle contacts on a retention schedule and serves GDPR export and erase requests [citation:3]
-- **Admin API**: JWT, Pydantic schemas, OpenAPI for CMS integration [citation:3]
-
-It runs inside the Entirius backend service (Volkanos) and drafts outreach through the communicator [citation:3].
-**Best for:** Organizations building on the Entirius ecommerce platform needing B2B lead management with GDPR compliance and AI-assisted outreach.
-
-### erxes
-**Stack:** Node.js / MongoDB / React | **License:** AGPL-3.0 (Community Edition)
-erxes is an open-source Experience Operating System (XOS) combining marketing, sales, operations, and support in one self-hostable platform, positioned as a HubSpot alternative [from previous context]. Key features include **Team Inbox** for real-time communication, **Leads** capture with landing pages and forms, **Engage** for email/SMS/messenger campaigns, **CRM**, **Knowledge base**, and **Sales Management** with pipeline control. It provides a **web-based CRM with mobile-responsive interfaces** rather than native apps.
-**Best for:** Organizations wanting a self-hostable HubSpot alternative with sales, marketing, and support in one platform.
+Sorted descending by GitHub stargazer count:
 
 ---
 
-## 📊 Comparison at a Glance
+### [Twenty](https://github.com/twentyhq/twenty) [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
+* **Stack:** TypeScript / NestJS / React / PostgreSQL
+* **License:** AGPL-3.0
+* **Repository:** [twentyhq/twenty](https://github.com/twentyhq/twenty)
 
-| Software | License | Stack | Lead Scoring | Visual Automation | Self-Hosted | Best For |
-|----------|---------|-------|--------------|-------------------|-------------|----------|
-| **HubSpot** | Proprietary | Cloud | ✅ | ✅ | ❌ | HubSpot CRM integration |
-| **Marketo** | Proprietary | Cloud | ✅ | ✅ | ❌ | Enterprise B2B automation |
-| **ActiveCampaign** | Proprietary | Cloud | ✅ | ✅ | ❌ | Automation depth |
-| **Mautic** | GPL-3.0 | PHP/MySQL | ✅ | ✅ Campaign builder | ✅ | Proven OSS + data sovereignty |
-| **Helio** | AGPL-3.0 | TypeScript/Temporal | ✅ Predictive | ✅ React Flow | ✅ | AI-native + free forever |
-| **NocoCRM** | Apache-2.0 | Node.js/NocoBase | (AI agents) | (AI follow-up) | ✅ | AI-agent B2B CRM + WhatsApp |
-| **Sphericon** | AGPL-3.0 | Go/Postgres | (Check) | (MCP drafts) | ✅ | Lightweight Go + deliverability |
-| **OpenLeads** | Open Source | Python/SQLite | ✅ ICP fit | ✅ Sequences | ✅ (Local) | Local-first lead gen + outreach |
-| **entirius-django-leads** | MPL-2.0 | Django/Postgres | (AI-assisted) | (Stage rules) | ✅ | Entirius B2B pipeline |
+Twenty is the leading modern open-source CRM designed as an extensible, community-powered alternative to Salesforce and HubSpot.
+- 🎯 **Lead & Opportunity Tracking**: Comprehensive pipeline management with custom fields, visual Kanban views, and relational data modeling.
+- ⚡ **Workflow Automation**: Built-in visual triggers, webhooks, and automated actions to nurture incoming leads across pipeline stages.
+- 🔌 **Open Ecosystem**: GraphQL and REST APIs, customizable objects, and rapid local self-hosting via Docker Compose.
+- 💡 **Best for:** Fast-growing teams needing an ultra-modern, extensible CRM foundation with visual lead pipeline control.
+
+---
+
+### [Listmonk](https://github.com/knadh/listmonk) [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
+* **Stack:** Go / PostgreSQL / Vue.js
+* **License:** AGPL-3.0
+* **Repository:** [knadh/listmonk](https://github.com/knadh/listmonk)
+
+Listmonk is a high-performance, self-hosted newsletter and mailing list manager capable of sending millions of messages across email, SMS, and messaging protocols.
+- 🚀 **Blazing Performance**: Packed into a single lightweight Go binary with minimal memory footprint and raw SQL querying speed.
+- ✉️ **Multi-Channel Campaigns**: Native support for transactional email, marketing broadcasts, SMS gateways, and custom HTTP webhooks.
+- 👥 **Audience Segmentation**: Advanced SQL expressions for dynamic subscriber segmentation, custom JSON attributes, and subscription management.
+- 💡 **Best for:** Developers and high-volume senders needing extremely fast, cost-effective broadcast and transactional lead nurturing.
+
+---
+
+### [Mautic](https://github.com/mautic/mautic) [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
+* **Stack:** PHP / MySQL / Symfony
+* **License:** GPL-3.0
+* **Repository:** [mautic/mautic](https://github.com/mautic/mautic)
+
+Mautic is the world's most mature and widely adopted open-source marketing automation platform, explicitly built for full data ownership and privacy compliance.
+- 🔄 **Visual Campaign Builder**: Drag-and-drop workflow canvas with automated decisions, actions, delays, and Jump-to-Step routing.
+- 🏆 **Lead Scoring & Management**: Point scoring models, behavioral triggers, stage transitions, and progressive profiling forms.
+- 🌐 **Omnichannel Delivery**: Native campaigns across email, SMS, web push notifications, and social channels.
+- 🛡️ **GDPR & Privacy Sovereignty**: Granular consent tracking, complete data erasure routines, and audit logging with zero vendor lock-in.
+- 💡 **Best for:** Enterprises and marketing departments requiring a proven, full-featured HubSpot or Marketo alternative with complete infrastructure control.
+
+---
+
+### [SuiteCRM](https://github.com/salesagility/SuiteCRM) [![GitHub stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)
+* **Stack:** PHP / MariaDB / Symfony / Angular
+* **License:** AGPL-3.0
+* **Repository:** [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM)
+
+SuiteCRM is an enterprise-ready, open-source CRM providing complete lifecycle management from lead acquisition to opportunity conversion and customer retention.
+- 📊 **Marketing Campaigns**: Multi-channel marketing campaign wizard, target list management, newsletter scheduling, and ROI reporting.
+- ⚙️ **Process Automation (Workflow Engine)**: Automated business rules for lead routing, status updates, task assignment, and trigger-based notifications.
+- 🗂️ **Comprehensive B2B Modules**: Accounts, Contacts, Leads, Quotes, Contracts, Invoices, and Case Management.
+- 💡 **Best for:** Medium to large organizations seeking an enterprise open-source CRM alternative to proprietary suites.
+
+---
+
+### [erxes](https://github.com/erxes/erxes) [![GitHub stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)
+* **Stack:** TypeScript / Node.js / MongoDB / React
+* **License:** AGPL-3.0 (Community Edition)
+* **Repository:** [erxes/erxes](https://github.com/erxes/erxes)
+
+erxes is an open-source Experience Operating System (XOS) combining marketing, sales, operational pipelines, and customer support in one unified platform.
+- 📥 **Omnichannel Team Inbox**: Centralized messaging hub capturing chats, emails, and social inquiries in real time.
+- 📈 **Growth & Marketing Modules**: Lead capture widgets, customizable forms, landing pages, and automated drip sequences.
+- 🏷️ **Sales Pipeline Control**: Visual deal stages, contact timeline history, and integrated knowledge base tools.
+- 💡 **Best for:** Teams looking for an all-in-one HubSpot alternative spanning sales, lead capture, and support operations.
+
+---
+
+### [Dittofeed](https://github.com/dittofeed/dittofeed) [![GitHub stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)
+* **Stack:** TypeScript / Node.js / ClickHouse / PostgreSQL
+* **License:** MIT
+* **Repository:** [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)
+
+Dittofeed is an open-source, developer-friendly customer engagement and journey orchestration platform built as an alternative to Customer.io and Braze.
+- 🗺️ **Visual Journey Builder**: Construct event-driven customer journeys with branch conditions, time delays, and personalized message templates.
+- 📡 **Event-Driven Architecture**: High-throughput event ingestion backed by ClickHouse for real-time behavioral segmentation.
+- 💬 **Multi-Channel Orchestration**: Deliver personalized messages via Email (SendGrid, Postmark, AWS SES), SMS (Twilio), WhatsApp, Push, and Webhooks.
+- 💡 **Best for:** Product-led growth (PLG) startups and engineering teams wanting modern event-triggered automation without per-contact SaaS bills.
+
+---
+
+### [Laudspeaker](https://github.com/laudspeaker/laudspeaker) [![GitHub stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker?style=social&color=white)](https://github.com/laudspeaker/laudspeaker/stargazers)
+* **Stack:** TypeScript / NestJS / PostgreSQL / Redis
+* **License:** AGPL-3.0
+* **Repository:** [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker)
+
+Laudspeaker is an open-source customer journey and product onboarding automation platform created as an open alternative to Braze and OneSignal.
+- 🪜 **State-Machine Journeys**: Visual flow builder modeled as state machines for reliable user onboarding, activation sequences, and retention loops.
+- 🔔 **Multi-Channel Messaging**: Coordinated push notifications, in-app popups, SMS, and transactional/marketing email.
+- 🎯 **Cohort Segmentation**: Filter users based on behavioral events, metadata traits, and product activity milestones.
+- 💡 **Best for:** Mobile and web application builders needing rich in-app onboarding journeys and event-driven product messaging.
+
+---
+
+### [Parcelvoy](https://github.com/parcelvoy/platform) [![GitHub stars](https://img.shields.io/github/stars/parcelvoy/platform?style=social&color=white)](https://github.com/parcelvoy/platform/stargazers)
+* **Stack:** TypeScript / Node.js / PostgreSQL / Next.js
+* **License:** Apache-2.0
+* **Repository:** [parcelvoy/platform](https://github.com/parcelvoy/platform)
+
+Parcelvoy is a modern, open-source multi-channel customer engagement platform built to power data-driven outbound communications.
+- 🎨 **Journey Canvas**: Drag-and-drop workflow canvas for designing complex multi-touch lead nurturing sequences.
+- 📊 **Audience Segments**: Create dynamic, continuous user segments driven by event streams and user profile attributes.
+- 📬 **Provider Flexibility**: Pluggable notification providers across email, SMS, push, and webhooks with integrated analytics.
+- 💡 **Best for:** Technical marketing and product teams needing a clean, self-hostable communication engine with full API access.
+
+---
+
+### [OpenLeads](https://github.com/Samyrrrrrr990/openleads) [![GitHub stars](https://img.shields.io/github/stars/Samyrrrrrr990/openleads?style=social&color=white)](https://github.com/Samyrrrrrr990/openleads/stargazers)
+* **Stack:** Python / SQLite / Streamlit
+* **License:** Open Source
+* **Repository:** [Samyrrrrrr990/openleads](https://github.com/Samyrrrrrr990/openleads)
+
+OpenLeads is a local-first lead discovery, enrichment, and outreach workspace designed as a zero-cost alternative to Apollo and Hunter.
+- 🔎 **Lead Discovery**: Multi-source querying across OpenStreetMap, Y Combinator, Hacker News, GitHub, and SEC EDGAR without paid API keys.
+- 🏷️ **Evidence-Based Verification**: Rigorous email categorization (`safe`, `risky`, `bad`) based on seven programmatic deliverability checks.
+- 📤 **Automated Sequences**: Multi-step email, call, and LinkedIn follow-up sequences that auto-pause on prospect reply or bounce.
+- 💡 **Best for:** Solopreneurs and outbound sales teams looking for a local-first lead finder and automated nurturing sequence runner.
+
+---
+
+### [Sphericon](https://github.com/getsphericon/sphericon) [![GitHub stars](https://img.shields.io/github/stars/getsphericon/sphericon?style=social&color=white)](https://github.com/getsphericon/sphericon/stargazers)
+* **Stack:** Go / PostgreSQL / React
+* **License:** AGPL-3.0
+* **Repository:** [getsphericon/sphericon](https://github.com/getsphericon/sphericon)
+
+Sphericon is a self-hosted marketing automation platform designed with a primary focus on email deliverability, simplicity, and agentic integrations.
+- 📦 **Single-Binary Deployment**: Ships as a lightweight Go binary and PostgreSQL database with no Redis or complex worker dependencies.
+- 📬 **Deliverability Controls**: Automatic unsubscribe processing, bounce/complaint handling, DKIM signing, and one-click unsubscribe headers.
+- 🤖 **AI & Agent Ready**: Built-in MCP server enabling autonomous AI agents to draft and validate campaigns with explicit human-in-the-loop gates.
+- 💡 **Best for:** Developers needing a simple, highly deliverable marketing automation backend with native AI agent orchestration.
+
+---
+
+### [Helio](https://github.com/achref-soua/helio) [![GitHub stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)
+* **Stack:** TypeScript / Temporal / PostgreSQL / ClickHouse
+* **License:** AGPL-3.0
+* **Repository:** [achref-soua/helio](https://github.com/achref-soua/helio)
+
+Helio is an open-source, AI-native growth platform combining a Customer Data Platform (CDP), visual journey orchestration, and multi-channel message delivery.
+- 🗺️ **Visual Journey Builder**: React Flow canvas compiling workflows to validated DAGs with durable, fault-tolerant execution powered by Temporal.
+- 🤖 **AI Copilot & Bring-Your-Own-LLM**: Generate segments, journeys, and email copies via OpenAI, Anthropic, Groq, NVIDIA NIM, or local Ollama.
+- 📱 **Multi-Channel Delivery**: Coordinated outreach via Email, SMS (Twilio), WhatsApp Cloud API, Web Push, and In-App notifications.
+- 💡 **Best for:** Modern engineering and growth teams wanting an AI-first marketing stack with durable workflow execution.
+
+---
+
+### [NocoCRM](https://github.com/nocobase/NocoCRM) [![GitHub stars](https://img.shields.io/github/stars/nocobase/NocoCRM?style=social&color=white)](https://github.com/nocobase/NocoCRM/stargazers)
+* **Stack:** Node.js / NocoBase / SQLite/PostgreSQL/MySQL
+* **License:** Apache-2.0
+* **Repository:** [nocobase/NocoCRM](https://github.com/nocobase/NocoCRM)
+
+NocoCRM is an open-source B2B sales CRM built on top of the NocoBase framework featuring **six autonomous AI sales agents** for automated follow-ups and intelligence.
+- 🤖 **Autonomous Follow-Up Agents**: Automatically monitors lead responses, deal updates, and daily morning checks to draft contextual follow-up steps.
+- 🌐 **Company Signals Engine**: Gathers daily web intelligence regarding open deal accounts (funding announcements, executive changes, risk factors).
+- 💬 **Unified Omnichannel Timeline**: Aggregates personal IMAP/SMTP emails (Gmail, Microsoft 365) alongside corporate WhatsApp Business communications.
+- 💡 **Best for:** B2B sales teams wanting AI-agent-assisted lead follow-up and WhatsApp engagement built on a flexible no-code data layer.
+
+---
+
+### [entirius-django-leads](https://github.com/entirius/entirius-django-leads) [![GitHub stars](https://img.shields.io/github/stars/entirius/entirius-django-leads?style=social&color=white)](https://github.com/entirius/entirius-django-leads/stargazers)
+* **Stack:** Python / Django / PostgreSQL
+* **License:** MPL-2.0
+* **Repository:** [entirius/entirius-django-leads](https://github.com/entirius/entirius-django-leads)
+
+entirius-django-leads is a modular Django package designed to power B2B sales pipelines and lead qualification within the open-source Entirius ecosystem.
+- 📊 **Configurable Pipeline Stages**: Manages lead progression through custom sales funnels with comprehensive audit timelines.
+- 🛡️ **Automated Privacy Compliance**: Anonymizes inactive contacts on predefined retention schedules with native GDPR export/erasure endpoints.
+- 🔌 **REST API & Schemas**: OpenAPI integration with JWT authentication for embedding lead management into custom headless web architectures.
+- 💡 **Best for:** Python and Django developers seeking a clean, embeddable B2B lead management engine with strict GDPR handling.
+
+---
+
+## 📈 Comparison at a Glance
+
+| Software | Model | License | Stack | Lead Scoring | Visual Automation | Multi-Channel | Best For |
+| :--- | :--- | :--- | :--- | :---: | :---: | :---: | :--- |
+| **Pardot (Salesforce)** | SaaS | Commercial | Cloud | ✅ | ✅ Engagement Studio | ✅ | Enterprise Salesforce CRM integration |
+| **Marketo Engage** | SaaS | Commercial | Cloud | ✅ | ✅ Advanced Campaigns | ✅ | Enterprise B2B multi-touch attribution |
+| **HubSpot** | SaaS | Commercial | Cloud | ✅ | ✅ Workflows | ✅ | Unified inbound marketing & CRM |
+| **Zoho Marketing** | SaaS | Commercial | Cloud | ✅ | ✅ Journey Builder | ✅ | Zoho ecosystem integration |
+| **ActiveCampaign** | SaaS | Commercial | Cloud | ✅ | ✅ Automations | ✅ | Automation depth & email nurturing |
+| **Customer.io** | SaaS | Commercial | Cloud | ✅ | ✅ Visual Workflows | ✅ | Behavioral event-triggered messaging |
+| **Twenty** | Open Source | AGPL-3.0 | TypeScript/NestJS | (Pipeline) | ✅ Workflows | 🔌 APIs | Modern extensible open-source CRM |
+| **Listmonk** | Open Source | AGPL-3.0 | Go/PostgreSQL | (Segments) | ⚡ Fast Broadcasts | ✅ Email/SMS | Blazing fast high-volume broadcasts |
+| **Mautic** | Open Source | GPL-3.0 | PHP/MySQL | ✅ Points & Stages | ✅ Campaign Builder | ✅ Email/SMS/Push | Full-featured open-source marketing suite |
+| **SuiteCRM** | Open Source | AGPL-3.0 | PHP/MariaDB | ✅ | ✅ Process Engine | ✅ Email/Campaigns | Enterprise open-source CRM & marketing |
+| **erxes** | Open Source | AGPL-3.0 | TypeScript/MongoDB | ✅ | ✅ Growth Campaigns | ✅ Omnichannel | All-in-one marketing, sales, and support |
+| **Dittofeed** | Open Source | MIT | TypeScript/ClickHouse | (Events) | ✅ User Journeys | ✅ Email/SMS/Push | Event-driven customer engagement |
+| **Laudspeaker** | Open Source | AGPL-3.0 | TypeScript/NestJS | (Milestones) | ✅ State Machines | ✅ In-App/Push/SMS | Product onboarding & activation journeys |
+| **Parcelvoy** | Open Source | Apache-2.0 | TypeScript/Node.js | (Attributes) | ✅ Journey Canvas | ✅ Multi-channel | Data-driven open customer engagement |
+| **OpenLeads** | Open Source | Open Source | Python/SQLite | ✅ ICP Fit | ✅ Sequences | 📤 Cold Outreach | Local-first lead generation & outreach |
+| **Sphericon** | Open Source | AGPL-3.0 | Go/PostgreSQL | (Tokens) | 🤖 Agent/MCP Drafts | 📬 Email | Deliverability-first single-binary platform |
+| **Helio** | Open Source | AGPL-3.0 | TypeScript/Temporal | ✅ AI Predictive | ✅ React Flow DAG | ✅ Omnichannel | AI-native growth platform & CDP |
+| **NocoCRM** | Open Source | Apache-2.0 | Node.js/NocoBase | 🤖 AI Agents | 🤖 Auto Follow-ups | 💬 WhatsApp/Email | AI agent-driven B2B CRM |
+| **entirius-django-leads** | Open Source | MPL-2.0 | Python/Django | (Rules) | (Stage Triggers) | 🔌 API | Embeddable Django B2B lead pipeline |
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you know of an open-source Marketing Automation or Lead Nurturing tool that should be listed here, please open a pull request with:
+Contributions are warmly welcomed! If you know of an active open-source marketing automation platform, lead scoring system, or customer journey tool that should be included:
 
-- Project name and URL
-- Brief description (1–2 sentences)
-- Stack and license
-- Why it stands out
+1. Fork this repository 🍴
+2. Create a feature branch (`git checkout -b feature/new-marketing-tool`)
+3. Add the project with details, stack, license, and GitHub link
+4. Commit your changes (`git commit -m "Add new marketing automation tool"`)
+5. Open a Pull Request 🚀
 
-Please ensure the project is actively maintained (releases within the last 12 months) and genuinely open-source.
+Please ensure suggested projects are actively maintained (commit activity or releases within the last 12 months) and adhere to genuine open-source licenses.
 
-**Note on the open-source ecosystem:** The marketing automation and lead nurturing space is **led by Mautic** for maturity and adoption (10k+ stars, active weekly development, proven as a HubSpot alternative for early-stage founders [citation:2][citation:9]). A newer generation of AI-native and agent-driven tools has emerged: **Helio** provides a free-forever growth platform with predictive lead scoring and Temporal-based durable execution [citation:5], **NocoCRM** offers six AI sales agents that handle follow-ups and company research automatically [citation:12], and **OpenLeads** provides local-first lead generation with evidence-based email labeling and outreach sequences [citation:4]. For teams wanting a lightweight Go-based platform, **Sphericon** focuses on deliverability and MCP integration [citation:10]. No single open-source project fully replicates Marketo's enterprise-scale orchestration, but these tools cover the core lead capture, scoring, and nurturing workflows for self-hosted deployments.
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated collection useful for your growth engineering, marketing workflows, or open-source stack, consider showing your support:
+
+- 🌟 **Star this repository** to help others discover it on GitHub!
+- 🍴 **Fork and share** it with colleagues, growth hackers, and dev communities.
+- ☕ **Buy me a coffee & become a sponsor** via GitHub Sponsors:  
+  [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%99%A5-pink?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ishandutta2007)  
+  👉 [Sponsor Dashboard: https://github.com/sponsors/ishandutta2007](https://github.com/sponsors/ishandutta2007)
+
+Thank you so much to all our community stargazers and contributors for keeping open-source marketing software thriving! 🙌
+
+---
+
+## 📊 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Marketing-Automation-Lead-Nurturing&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Marketing-Automation-Lead-Nurturing&type=date&legend=top-left)
 
 ---
 
 ## 📄 License
 
-This list is released under CC0 1.0 Universal (Public Domain). The software projects listed retain their respective licenses.
-
----
-
-⭐ **If this list helped you discover a useful tool, please star the repo!** ⭐
+This repository is distributed under the [Creative Commons Zero v1.0 Universal](LICENSE) (Public Domain Dedication). All listed individual software platforms retain their respective copyrights and licenses.
