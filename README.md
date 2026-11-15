@@ -9,13 +9,8 @@
 
 ## 📋 Table of Contents
 
+- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [HubSpot Marketing Hub](#hubspot-marketing-hub)
-  - [Marketo Engage](#marketo-engage)
-  - [ActiveCampaign](#activecampaign)
-  - [Pardot (Salesforce Account Engagement)](#pardot-salesforce-account-engagement)
-  - [Customer.io](#customerio)
-  - [Zoho Marketing Automation](#zoho-marketing-automation)
 - [Open-Source Software](#-open-source-software)
   - [Mautic](#mautic)
   - [Helio](#helio)
@@ -27,33 +22,24 @@
 
 ---
 
+## 📊 Sector Overview & Market Dynamics
+
+The global marketing automation software market was estimated at approximately **$5.1B to $6.7B in 2024** (growing at an 11–15% CAGR toward **$6.2B–$8.4B+**). The sector is **moderately fragmented**: it displays a top-heavy concentration where a handful of enterprise CRM and marketing giants (Salesforce, Adobe, HubSpot) hold nearly 45–50% of revenue, while hundreds of specialized, mid-market, and open-source point solutions actively compete in a fragmented long tail.
+
+---
+
 ## 🟦 SaaS / Hosted Platforms
 
-Commercial, cloud-hosted Marketing Automation and Lead Nurturing platforms. These are not open-source but are included as reference points for feature comparison.
+Commercial, cloud-hosted Marketing Automation and Lead Nurturing platforms. These are not open-source but are included as reference points for feature comparison. Sorted descending by company size (valuation / revenue).
 
-### HubSpot Marketing Hub
-**Type:** All-in-one marketing platform with CRM integration
-HubSpot Marketing Hub provides email marketing, lead scoring, automation workflows, landing pages, and analytics, tightly integrated with HubSpot CRM. It is the natural choice for organizations already using HubSpot, with a free tier for basic email marketing and paid tiers scaling by contacts and features.
-
-### Marketo Engage
-**Type:** Enterprise marketing automation within Adobe
-Marketo Engage (Adobe) provides sophisticated B2B marketing automation with lead scoring, multi-touch attribution, account-based marketing, and complex campaign orchestration. It is positioned for large enterprises with complex B2B sales cycles, with pricing that targets enterprise budgets.
-
-### ActiveCampaign
-**Type:** Marketing automation with integrated CRM
-ActiveCampaign combines email marketing, marketing automation, and a lightweight CRM, known for automation depth relative to price. It supports email, SMS, and site messaging, with pricing starting at $15/month for the Starter plan and scaling by contacts.
-
-### Pardot (Salesforce Account Engagement)
-**Type:** B2B marketing automation within Salesforce
-Pardot provides lead scoring, nurturing, email marketing, and ROI reporting natively within Salesforce. It is positioned for B2B organizations already standardized on Salesforce, with pricing that reflects its enterprise focus.
-
-### Customer.io
-**Type:** Event-triggered messaging platform
-Customer.io provides event-triggered email, push, SMS, and in-app messaging with a focus on behavioral automation. It is positioned for product-led growth companies wanting to send messages based on user actions within their application.
-
-### Zoho Marketing Automation
-**Type:** Marketing automation within Zoho ecosystem
-Zoho Marketing Automation provides email campaigns, lead scoring, workflows, and multi-channel engagement as part of the broader Zoho suite. It is the natural choice for organizations already using Zoho CRM or other Zoho products.
+| Platform | Parent / Company Size (Revenue / Valuation) | Starting Pricing | Free Tier / Trial Limits | Key Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pardot (Salesforce Account Engagement)** | **Salesforce:** ~$319.95B Market Cap / ~$34.9B Revenue | **$1,250/month** (Growth+ plan, billed annually) | **No free tier; No public free trial** (access via sales-led demo and custom PoC sandbox only) | Enterprise B2B marketing automation, lead scoring/grading, and native Salesforce CRM integration for up to 10,000 prospects. |
+| **Marketo Engage** | **Adobe:** ~$195.66B Market Cap / ~$21.4B Revenue | **~$895/month** (Growth tier list entry, billed annually) | **No free tier; No self-serve trial** (interactive guided tour available; custom sales demo/PoC sandbox only) | Sophisticated enterprise lead management, multi-touch attribution, ABM, and complex multi-channel campaign orchestration. |
+| **HubSpot Marketing Hub** | **HubSpot:** ~$35.97B Market Cap / ~$2.63B Revenue | **$15/seat/month** (Starter tier billed annually, or $20/month billed monthly) | **Free-forever plan**: Max 2 user seats, 2,000 marketing email sends/month, 10 custom properties, HubSpot branding required, basic form follow-up automation only. | Inbound marketing, visual workflow builders, lead scoring, landing pages, and native HubSpot CRM synchronization. |
+| **Zoho Marketing Automation** | **Zoho Corp:** ~$1.5B Revenue (~$10B+ Valuation) | **$19/month** (Standard plan for 1,000 contacts, billed annually) | **14-day free trial**: Full access to all product features, no credit card required upfront (no forever-free tier). | Lead nurturing journeys, dynamic email campaigns, visitor tracking, behavioral scoring, and tight Zoho CRM integration. |
+| **ActiveCampaign** | **ActiveCampaign:** ~$3.0B Valuation (~$250M ARR) | **$15/month** (Starter plan for 1,000 contacts, billed annually) | **14-day free trial**: Access to Pro-tier features, 1 user seat, capped at 100 total outbound email sends, no credit card required. | Visual multi-step automations, event tracking, email marketing, SMS, and integrated lightweight CRM pipeline. |
+| **Customer.io** | **Customer.io:** ~$100M+ ARR (Valuation ~$500M+) | **$100/month** (Essentials plan for 5,000 profiles, billed monthly) | **14-day free trial**: Up to 5,000 total messages across channels, max 3 recipients per test email, capped at 50 test messages/day, no credit card required. | Behavioral event-triggered messaging across email, SMS, push, and in-app for product-led growth teams. |
 
 ---
 
