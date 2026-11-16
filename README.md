@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Marketing-Automation-Personalization"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Marketing-Automation-Personalization?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Marketing-Automation-Personalization"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Marketing-Automation-Personalization?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Marketing-Automation-Personalization/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Marketing-Automation-Personalization?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Marketing-Automation-Personalization/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0 1.0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -74,7 +74,7 @@ Sorted descending by GitHub stargazer count:
 
 ---
 
-### [Twenty](https://github.com/twentyhq/twenty) [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
+### [Twenty](https://github.com/twentyhq/twenty) [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
 * **Stack:** TypeScript / NestJS / React / PostgreSQL
 * **License:** AGPL-3.0
 * **Repository:** [twentyhq/twenty](https://github.com/twentyhq/twenty)
@@ -87,7 +87,7 @@ Twenty is the leading modern open-source CRM designed as an extensible, communit
 
 ---
 
-### [Listmonk](https://github.com/knadh/listmonk) [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
+### [Listmonk](https://github.com/knadh/listmonk) [![GitHub_Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
 * **Stack:** Go / PostgreSQL / Vue.js
 * **License:** AGPL-3.0
 * **Repository:** [knadh/listmonk](https://github.com/knadh/listmonk)
@@ -100,7 +100,7 @@ Listmonk is a high-performance, self-hosted newsletter and mailing list manager 
 
 ---
 
-### [Mautic](https://github.com/mautic/mautic) [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
+### [Mautic](https://github.com/mautic/mautic) [![GitHub_Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
 * **Stack:** PHP / MySQL / Symfony
 * **License:** GPL-3.0
 * **Repository:** [mautic/mautic](https://github.com/mautic/mautic)
@@ -114,7 +114,7 @@ Mautic is the world's most mature and widely adopted open-source marketing autom
 
 ---
 
-### [SuiteCRM](https://github.com/salesagility/SuiteCRM) [![GitHub stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)
+### [SuiteCRM](https://github.com/salesagility/SuiteCRM) [![GitHub_Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)
 * **Stack:** PHP / MariaDB / Symfony / Angular
 * **License:** AGPL-3.0
 * **Repository:** [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM)
@@ -127,7 +127,7 @@ SuiteCRM is an enterprise-ready, open-source CRM providing complete lifecycle ma
 
 ---
 
-### [erxes](https://github.com/erxes/erxes) [![GitHub stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)
+### [erxes](https://github.com/erxes/erxes) [![GitHub_Stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)
 * **Stack:** TypeScript / Node.js / MongoDB / React
 * **License:** AGPL-3.0 (Community Edition)
 * **Repository:** [erxes/erxes](https://github.com/erxes/erxes)
@@ -140,7 +140,7 @@ erxes is an open-source Experience Operating System (XOS) combining marketing, s
 
 ---
 
-### [Dittofeed](https://github.com/dittofeed/dittofeed) [![GitHub stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)
+### [Dittofeed](https://github.com/dittofeed/dittofeed) [![GitHub_Stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)
 * **Stack:** TypeScript / Node.js / ClickHouse / PostgreSQL
 * **License:** MIT
 * **Repository:** [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)
@@ -153,7 +153,7 @@ Dittofeed is an open-source, developer-friendly customer engagement and journey 
 
 ---
 
-### [Laudspeaker](https://github.com/laudspeaker/laudspeaker) [![GitHub stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker?style=social&color=white)](https://github.com/laudspeaker/laudspeaker/stargazers)
+### [Laudspeaker](https://github.com/laudspeaker/laudspeaker) [![GitHub_Stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker?style=social&color=white)](https://github.com/laudspeaker/laudspeaker/stargazers)
 * **Stack:** TypeScript / NestJS / PostgreSQL / Redis
 * **License:** AGPL-3.0
 * **Repository:** [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker)
@@ -166,7 +166,7 @@ Laudspeaker is an open-source customer journey and product onboarding automation
 
 ---
 
-### [Parcelvoy](https://github.com/parcelvoy/platform) [![GitHub stars](https://img.shields.io/github/stars/parcelvoy/platform?style=social&color=white)](https://github.com/parcelvoy/platform/stargazers)
+### [Parcelvoy](https://github.com/parcelvoy/platform) [![GitHub_Stars](https://img.shields.io/github/stars/parcelvoy/platform?style=social&color=white)](https://github.com/parcelvoy/platform/stargazers)
 * **Stack:** TypeScript / Node.js / PostgreSQL / Next.js
 * **License:** Apache-2.0
 * **Repository:** [parcelvoy/platform](https://github.com/parcelvoy/platform)
@@ -179,7 +179,7 @@ Parcelvoy is a modern, open-source multi-channel customer engagement platform bu
 
 ---
 
-### [OpenLeads](https://github.com/Samyrrrrrr990/openleads) [![GitHub stars](https://img.shields.io/github/stars/Samyrrrrrr990/openleads?style=social&color=white)](https://github.com/Samyrrrrrr990/openleads/stargazers)
+### [OpenLeads](https://github.com/Samyrrrrrr990/openleads) [![GitHub_Stars](https://img.shields.io/github/stars/Samyrrrrrr990/openleads?style=social&color=white)](https://github.com/Samyrrrrrr990/openleads/stargazers)
 * **Stack:** Python / SQLite / Streamlit
 * **License:** Open Source
 * **Repository:** [Samyrrrrrr990/openleads](https://github.com/Samyrrrrrr990/openleads)
@@ -192,7 +192,7 @@ OpenLeads is a local-first lead discovery, enrichment, and outreach workspace de
 
 ---
 
-### [Sphericon](https://github.com/getsphericon/sphericon) [![GitHub stars](https://img.shields.io/github/stars/getsphericon/sphericon?style=social&color=white)](https://github.com/getsphericon/sphericon/stargazers)
+### [Sphericon](https://github.com/getsphericon/sphericon) [![GitHub_Stars](https://img.shields.io/github/stars/getsphericon/sphericon?style=social&color=white)](https://github.com/getsphericon/sphericon/stargazers)
 * **Stack:** Go / PostgreSQL / React
 * **License:** AGPL-3.0
 * **Repository:** [getsphericon/sphericon](https://github.com/getsphericon/sphericon)
@@ -205,7 +205,7 @@ Sphericon is a self-hosted marketing automation platform designed with a primary
 
 ---
 
-### [Helio](https://github.com/achref-soua/helio) [![GitHub stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)
+### [Helio](https://github.com/achref-soua/helio) [![GitHub_Stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)
 * **Stack:** TypeScript / Temporal / PostgreSQL / ClickHouse
 * **License:** AGPL-3.0
 * **Repository:** [achref-soua/helio](https://github.com/achref-soua/helio)
@@ -218,7 +218,7 @@ Helio is an open-source, AI-native growth platform combining a Customer Data Pla
 
 ---
 
-### [NocoCRM](https://github.com/nocobase/NocoCRM) [![GitHub stars](https://img.shields.io/github/stars/nocobase/NocoCRM?style=social&color=white)](https://github.com/nocobase/NocoCRM/stargazers)
+### [NocoCRM](https://github.com/nocobase/NocoCRM) [![GitHub_Stars](https://img.shields.io/github/stars/nocobase/NocoCRM?style=social&color=white)](https://github.com/nocobase/NocoCRM/stargazers)
 * **Stack:** Node.js / NocoBase / SQLite/PostgreSQL/MySQL
 * **License:** Apache-2.0
 * **Repository:** [nocobase/NocoCRM](https://github.com/nocobase/NocoCRM)
@@ -231,7 +231,7 @@ NocoCRM is an open-source B2B sales CRM built on top of the NocoBase framework f
 
 ---
 
-### [entirius-django-leads](https://github.com/entirius/entirius-django-leads) [![GitHub stars](https://img.shields.io/github/stars/entirius/entirius-django-leads?style=social&color=white)](https://github.com/entirius/entirius-django-leads/stargazers)
+### [entirius-django-leads](https://github.com/entirius/entirius-django-leads) [![GitHub_Stars](https://img.shields.io/github/stars/entirius/entirius-django-leads?style=social&color=white)](https://github.com/entirius/entirius-django-leads/stargazers)
 * **Stack:** Python / Django / PostgreSQL
 * **License:** MPL-2.0
 * **Repository:** [entirius/entirius-django-leads](https://github.com/entirius/entirius-django-leads)
